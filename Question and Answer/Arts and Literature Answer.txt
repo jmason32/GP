@@ -1,0 +1,80 @@
+1. Vincent van Gogh	
+2. Michelangelo	
+3. Georgia O'Keeffe	
+4. Leonardo da Vinci
+1. Mark Twain	
+2. J. K. Rowling	
+3. Stephen King	
+4. William Shakespeare
+1. 999	
+2. 1,002	
+3. 1,001	
+4. 1,000
+1. Hundred Acre Wood	
+2. Tongass National Forest	
+3. Deschutes	
+4. Allegheny
+1. Smithsonian Institution	
+2. Louvre	
+3. The Acropolis Museum	
+4. State Hermitage
+1. A Midsummer Night's Dream	
+2. Nutcracker Sweet	
+3. Florida	
+4. The Golden Age
+1. Charlie	
+2. Wonka	
+3. Sam	
+4. Buckett
+1. Michelangelo Buonarroti	
+2. Alezandros of Antioch	
+3. Polynesian Colonizers	
+4. Auguste Rodin
+1. Civil War	
+2. Vietnam War	
+3. Napoleonic wars	
+4. World War II
+1. Jesus	
+2. David	
+3. Moses	
+4. Jacob
+1. Albus Dumbledore	
+2. Cedric Diggory	
+3. Jon Snow	
+4. Harry Potter
+1. Leonardo da Vinci	
+2. Vincent van Gogh	
+3. Pablo Picasso	
+4. Andy Warhol
+1. Charles Dickens	
+2. Jane Austen	
+3. Ernest Hemingway	
+4. Alexandre Dumas
+1. Ballet	
+2. Pottery	
+3. Sculpture	
+4. Painting
+1. Lady Macbeth	
+2. Hamlet	
+3. Macbeth	
+4. Demetrius
+1. Gloomy	
+2. Dopey	
+3. Bashful	
+4. Grumpy
+1. Moses	
+2. Jesus	
+3. Methuselah 	
+4. David
+1. Ahab	
+2. Ishmael	
+3. Ashore	
+4. Elijah
+1. Katie	
+2. Susan	
+3. Marietta 	
+4. Lily
+1. Spanish	
+2. French	
+3. Britain	
+4. German
