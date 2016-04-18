@@ -34,8 +34,7 @@ D
 A Gynecology
 B Podiatry
 C Cardiology
-D 
-Pediatrics
+D Pediatrics
 C
 6.Which computer was founded by Steve Jobs?
 A Apple
@@ -51,8 +50,7 @@ D 2
 B
 8.What two number is used to represent binary?
 A 3,2
-B 
-4,5
+B 4,5
 C 9,0
 D 1,0
 D
@@ -64,13 +62,11 @@ C Carbon
 D 
 Helium
 A
-10.What animal has the highest blood pressure?
+10.What animal has the HIGHEST blood pressure?
 A Giraffe
-B 
-Lion
+B Lion
 C Shark
-D 
-Elephant
+D Elephant
 A
 11.What is the square root of 625?
 A 21
