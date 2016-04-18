@@ -1,28 +1,4 @@
-1. 1-point 
-2. 2-points	
-3. 3-points	
-4. It doesnt matter
-1. Golden State Warriors	
-2. Miami Heat
-3. Cleveland Cavaliers
-4. San Antonio Spurs
-1. Michael Jordan	
-2. Charles Barkley
-3. Larry Bird	
-4. Lebron James
-1. New England Patriots	
-2. Oakland Raiders	
-3. Minnesota Vikings	
-4. Miami Dolphins
-1. Sam Bradford
-2. RGIII
-3. TIm Tebow	
-4. 
-Johnny Manziel
-1. UCLA
-2. Florida	
-3. Duke
-4. UNC
+
 1. Peyton Manning
 2. Archie Manning
 3. Jordan Manning	
@@ -78,7 +54,4 @@ Jeff Demps
 2. Brazil	
 3. South Africa
 4. Australia
-1. The King	
-2. The Red Mamba	
-3. BeatMode
-4. The Black Mamba
+
