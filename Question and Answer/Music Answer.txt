@@ -1,83 +1,1 @@
-1. Usher
-	
-2. Diddy	
-3. Birdman
-4. Eminem
-1. Off The Wall
-2. Bad
-3. Thriller
-4. Invincible
-1. Jimi Hendrix
-2. Slash	
-3. Jimmy Page
-4. Eric Clapton
-1. Florida
-2. California3. Arizona
-4. New York
-1. Wu Tang Clan
-2. The Roots
-3. NWA
-4. Death Row
-1. TLC
-2. Blacked Eyed Peas	
-3. Destiny's Child	
-4. The Fugees
-1. Puerto Rico
-2. Colombia
-3. Venezuela	
-4. Dominican Republic
-1. Ray Davies	
-2. Eric Clapton	
-3. Elton John
-4. Paul McCartney
-1. Katy Perry
-2. Madonna	
-3. Lady Gaga	
-4. Beyonce
-1. Paul	
-2. James	
-3. 
-Fred
-4. Terry
-1. Kanye West
-2. Jay-Z	
-3. Lil Wayne	
-4. 
-Drake
-1. Roar	
-2. Dark Horse	
-3. 
-Part of Me
-4. Unconditionally
-1. Ariana Grande	
-2. Ellie Goulding	
-3. Lorde	
-4. Lana Del Rey
-1. Nothing Was The Same	
-2. Blueprint	
-3. Take Care	
-4. Thank Me Later
-1. Kanye West
-2. Kid Cudi
-3. Young Thug	
-4. Usher
-1. Glass
-2. Prism
-3. Cube	
-4. Sphere
-1. Rihanna	
-2. Ke$ha	
-3. Lady Gaga
-4. Miley Cyrus
-1. Way Down
-2. All Shook up	
-3. Blue Moon	
-4. Blue River
-1. Same Girl	
-2. The World’s Greatest	
-3. I believe I can fly	
-4. I'm a Flirt
-1. I’m so Paid
-2. Smack That
-3. Lonely	
-4. Right Now
+

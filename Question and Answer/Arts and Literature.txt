@@ -1,20 +1,120 @@
-Who drew the Monia Lisa? 
-Who wrote Harry Potter? 
-How many nights are there in Arabian Nights?
-In what wood does Winnie the Pooh live?
-In which museum are you most likely to find the Mona Lisa?
-In which ballet would you hear the ‘Dance of the Sugarplum Fairy’?
-In Charlie and the Chocolate Factory, what is Charlie’s surname?
-Which artist created the sculpture ‘The Thinker’?
-Which wars are taking place in the novel ‘War & Peace’?
-Who is the second most mentioned man in the Bible?
-Which famous fictional character lives at 4 Privet Drive?
-Which artist had Blue and Rose periods?
-Who wrote the novel ‘The Three Musketeers’?
-In which artistic field is Bernard Leach well renowned?
-Of all Shakespeare’s characters, who has the most lines to deliver?
-Which name is not one of the seven dwarves?
-In the Bible, who lived for 969 years?
-Who narrates the tale of Moby Dick?
-What is the name of Harry Potter’s mother?
-What nationality was Pablo Picasso?
+0.Who drew the Monia Lisa?
+A Vincent van Gogh	
+B Michelangelo	
+C Georgia O'Keeffe	
+D Leonardo da Vinci
+D
+1. Who wrote Harry Potter? 
+A Mark Twain	
+B J. K. Rowling	
+C Stephen King	
+D William Shakespeare
+B
+2.How many nights are there in Arabian Nights?
+A 999	
+B 1,002	
+C 1,001	
+D 1,000
+C
+3.In what wood does Winnie the Pooh live?
+1. Hundred Acre Wood	
+2. Tongass National Forest	
+3. Deschutes	
+4. Allegheny
+A
+4.In which museum are you most likely to find the Mona Lisa?
+A Smithsonian Institution	
+B Louvre	
+C The Acropolis Museum	
+D State Hermitage
+B
+5.In which ballet would you hear the ‘Dance of the Sugarplum Fairy’?
+A A Midsummer Night's Dream	
+B Nutcracker Sweet	
+C Florida	
+D The Golden Age
+A
+6.In Charlie and the Chocolate Factory, what is Charlie’s surname?
+A Charlie	
+B Wonka	
+C Sam	
+D Buckett
+D
+7.Which artist created the sculpture ‘The Thinker’?
+A Michelangelo Buonarroti	
+B Alezandros of Antioch	
+C Polynesian Colonizers	
+D Auguste Rodin
+D
+8.Which wars are taking place in the novel ‘War & Peace’?
+A Civil War	
+B Vietnam War	
+C Napoleonic wars	
+D World War II
+C
+9.Who is the second most mentioned man in the Bible?
+A Jesus	
+B David	
+C Moses	
+D Jacob
+B
+10.Which famous fictional character lives at 4 Privet Drive?
+A Albus Dumbledore	
+B Cedric Diggory	
+C Jon Snow	
+D Harry Potter
+D
+11.Which artist had Blue and Rose periods?
+A Leonardo da Vinci	
+B Vincent van Gogh	
+C Pablo Picasso	
+D Andy Warhol
+C
+12.Who wrote the novel ‘The Three Musketeers’?
+A Charles Dickens	
+B Jane Austen	
+C Ernest Hemingway	
+D Alexandre Dumas
+D
+13.In which artistic field is Bernard Leach well renowned?
+A Ballet	
+B Pottery	
+C Sculpture	
+D Painting
+B
+14.Of all Shakespeare’s characters, who has the most lines to deliver?
+A Lady Macbeth	
+B Hamlet	
+C Macbeth	
+D Demetrius
+B
+15.Which name is not one of the seven dwarves?
+A Gloomy	
+B Dopey	
+C Bashful	
+D Grumpy
+A
+16.In the Bible, who lived for 969 years?
+A Moses	
+B Jesus	
+C Methuselah 	
+D David
+C
+17.Who narrates the tale of Moby Dick?
+A Ahab	
+B Ishmael	
+C Ashore	
+D Elijah
+B
+18.What is the name of Harry Potter’s mother?
+A Katie	
+B Susan	
+C Marietta 	
+D Lily
+D
+19.What nationality was Pablo Picasso?
+A Spanish	
+B French	
+C Britain	
+D German
+A
