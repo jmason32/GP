@@ -1,129 +1,129 @@
 0.Where does photosynthesis take place?
-A In plants	
-B In mamma	
-C ls In rocks	
+A In plants
+B In mamma
+C ls In rocks
 D In cell phones
 A
 1.What is the center of the atom called?
-A DNA	
-B Nucleus	
-C Cell	
+A DNA
+B Nucleus
+C Cell
 D Molecule
 B
 2.What is the unit measurement for sound?
-A Photons	
-B Audibles	
+A Photons
+B Audibles
 C 
-Decibels	
+Decibels
 D Electrons
 C
 3.What is the charge of proton?
-A -1	
-B +1	
-C 0	
+A -1
+B +1
+C 0
 D 2
 B
 4.Where was Isaac Newton born?
-A Germany	
+A Germany
 B 
-France	
-C USA	
+France
+C USA
 D England
 D
 5.What branch of medicine deal with the heart?
-A Gynecology	
-B Podiatry	
-C Cardiology	
+A Gynecology
+B Podiatry
+C Cardiology
 D 
 Pediatrics
 C
 6.Which computer was founded by Steve Jobs?
-A Apple	
+A Apple
 B HP
-C DELL	
+C DELL
 D Acer
 A
 7.How many pairs of cranial nerves do human have?
 A 5
-B 12	
-C 11	
+B 12
+C 11
 D 2
 B
 8.What two number is used to represent binary?
-A 3,2	
+A 3,2
 B 
-4,5	
-C 9,0	
+4,5
+C 9,0
 D 1,0
 D
 9.Which of the following element has the lowest atomic number?
-A Hydrogen	
+A Hydrogen
 B 
-Oxygen	
-C Carbon	
+Oxygen
+C Carbon
 D 
 Helium
 A
 10.What animal has the highest blood pressure?
-A Giraffe	
+A Giraffe
 B 
-Lion	
-C Shark	
+Lion
+C Shark
 D 
 Elephant
 A
 11.What is the square root of 625?
-A 21	
-B 25	
-C 27	
+A 21
+B 25
+C 27
 D 29
 B
 12.When are young elephants considered adults?
-A 10-12 years	
-B 16-18 years	
+A 10-12 years
+B 16-18 years
 C 12-15 years
 D 8-10 years
 C
 13.Which of this theory is considered about the creation of the universe?
 A Big Ben
 B Big Bang
-C Big Bong	
+C Big Bong
 D Big Bertha
 B
 14.What is the only liquid metal?
 A Iron
 B Copper
-C Gold	
+C Gold
 D Mercury
 D
 15.Which of the following describes types of electrical circuit?
 A Binary
-B Semilinear and Linear	
-C Parallel and Serial	
+B Semilinear and Linear
+C Parallel and Serial
 D Coordinated and individual
 C
 16.Approximately how many bones does an adult body have?
-A 206	
-B 234	
+A 206
+B 234
 C 189
 D 224
 A
 17.Cider comes from what fruit?
-A Apple	
-B Pear	
+A Apple
+B Pear
 C 
-Pineapple	
+Pineapple
 D Grapes
 A
 18.What is decimal number 15 in hex?
-A C	
+A C
 B D
-C E	
+C E
 D F
 D
 19.What is plastic made of?
 A Oil
-B Trees	
+B Trees
 C Ores
 D Vegetables
 A

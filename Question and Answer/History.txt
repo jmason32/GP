@@ -19,7 +19,7 @@ B
 3.Who was the leader of the civil rights movement?
 A Abraham Lincoln
 B Rosa Parks
-C Bill Clinton	
+C Bill Clinton
 D Martin Luther King Jr.
 D
 4.Who is on the hundred-dollar bill?
@@ -35,7 +35,7 @@ C Dog
 D Cat
 A
 6.How many people lost their lives in World War I?
-A Ten million	
+A Ten million
 B Hundred million
 C Hundred thousand
 D Eighteen million
@@ -47,7 +47,7 @@ C John Adams
 D Abraham Lincoln
 D
 8.How many states are in United States?
-A 45	
+A 45
 B 50
 C 60
 D 55
@@ -55,7 +55,7 @@ B
 9.What are the first ten amendments of Constitution known as?
 A Article of Confederation
 B I have a Dream
-C Bill of Rights	
+C Bill of Rights
 D Treaty of Versailles
 C
 10.How many wives did Henry VIII have?
@@ -66,15 +66,14 @@ D 8
 C
 11.According to Hinduism, who is the God of all the Gods and destroyer or transformer?
 A Brahma
-B Zeus	
-C Apollo	
+B Zeus
+C Apollo
 D Shiva
 D
 12.At one point, who had control of almost the whole world?
 A Vladimir Putin
 B Joseph Stalin
-
-C Adolf Hitler	
+C Adolf Hitler
 D Georgy Malenkov
 C
 13.When did French Revolution start?
@@ -98,7 +97,7 @@ A
 16.Who ruled Britain for the longest time?
 A Queen Elizabeth II
 B Queen Victoria
-C King Henry VIII	
+C King Henry VIII
 D King George III
 A
 17.In which terrible event did Nazi kill about six million Jews?
