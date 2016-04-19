@@ -11,10 +11,10 @@ C Stephen King
 D William Shakespeare
 B
 2.How many nights are there in Arabian Nights?
-A 999
-B 1,002
-C 1,001
-D 1,000
+A Nine hundred and ninety nine
+B One thousand two
+C One thousand one
+D One thousand
 C
 3.In what wood does Winnie the Pooh live?
 1. Hundred Acre Wood
