@@ -13,8 +13,7 @@ B
 2.What is the unit measurement for sound?
 A Photons
 B Audibles
-C 
-Decibels
+C Decibels
 D Electrons
 C
 3.What is the charge of proton?
@@ -25,8 +24,7 @@ D two
 B
 4.Where was Isaac Newton born?
 A Germany
-B 
-France
+B France
 C USA
 D England
 D
@@ -56,11 +54,9 @@ D one,zero
 D
 9.Which of the following element has the lowest atomic number?
 A Hydrogen
-B 
-Oxygen
+B Oxygen
 C Carbon
-D 
-Helium
+D Helium
 A
 10.What animal has the HIGHEST blood pressure?
 A Giraffe
@@ -107,8 +103,7 @@ A
 17.Cider comes from what fruit?
 A Apple
 B Pear
-C 
-Pineapple
+C Pineapple
 D Grapes
 A
 18.What is decimal number fifteen in hex?

@@ -17,10 +17,10 @@ C One thousand one
 D One thousand
 C
 3.In what wood does Winnie the Pooh live?
-1. Hundred Acre Wood
-2. Tongass National Forest
-3. Deschutes
-4. Allegheny
+A Hundred Acre Wood
+B Tongass National Forest
+C Deschutes
+D Allegheny
 A
 4.In which museum are you most likely to find the Mona Lisa?
 A Smithsonian Institution
@@ -28,25 +28,25 @@ B Louvre
 C The Acropolis Museum
 D State Hermitage
 B
-5.In which ballet would you hear the ‘Dance of the Sugarplum Fairy’?
+5.In which ballet would you hear the Dance of the Sugarplum Fairy?
 A A Midsummer Night's Dream
 B Nutcracker Sweet
 C Florida
 D The Golden Age
 A
-6.In Charlie and the Chocolate Factory, what is Charlie’s surname?
+6.In Charlie and the Chocolate Factory, what is Charlie surname?
 A Charlie
 B Wonka
 C Sam
 D Buckett
 D
-7.Which artist created the sculpture ‘The Thinker’?
+7.Which artist created the sculpture The Thinker?
 A Michelangelo Buonarroti
 B Alezandros of Antioch
 C Polynesian Colonizers
 D Auguste Rodin
 D
-8.Which wars are taking place in the novel ‘War & Peace’?
+8.Which wars are taking place in the novel War & Peace?
 A Civil War
 B Vietnam War
 C Napoleonic wars
@@ -70,7 +70,7 @@ B Vincent van Gogh
 C Pablo Picasso
 D Andy Warhol
 C
-12.Who wrote the novel ‘The Three Musketeers’?
+12.Who wrote the novel The Three Musketeers?
 A Charles Dickens
 B Jane Austen
 C Ernest Hemingway
@@ -82,7 +82,7 @@ B Pottery
 C Sculpture
 D Painting
 B
-14.Of all Shakespeare’s characters, who has the most lines to deliver?
+14.Of all Shakespeare characters, who has the most lines to deliver?
 A Lady Macbeth
 B Hamlet
 C Macbeth
@@ -94,7 +94,7 @@ B Dopey
 C Bashful
 D Grumpy
 A
-16.In the Bible, who lived for 969 years?
+16.In the Bible, who lived for nine hundred sixtynine years?
 A Moses
 B Jesus
 C Methuselah
@@ -106,7 +106,7 @@ B Ishmael
 C Ashore
 D Elijah
 B
-18.What is the name of Harry Potter’s mother?
+18.What is the name of Harry Potters mother?
 A Katie
 B Susan
 C Marietta
