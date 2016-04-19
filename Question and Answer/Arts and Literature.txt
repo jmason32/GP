@@ -58,7 +58,7 @@ B David
 C Moses
 D Jacob
 B
-10.Which famous fictional character lives at 4 Privet Drive?
+10.Which famous fictional character lives at four Privet Drive?
 A Albus Dumbledore
 B Cedric Diggory
 C Jon Snow
