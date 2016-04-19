@@ -11,7 +11,7 @@ B Bad
 C Thriller
 D Invincible
 C
-2.What guitarist released his band’s first album “Are You Experienced” in 1967?
+2.What guitarist released his band’s first album “Are You Experienced” ?
 A Jimi Hendrix
 B Slash
 C Jimmy Page
@@ -47,7 +47,7 @@ B Eric Clapton
 C Elton John
 D Paul McCartney
 D
-8.Who performed a stunning halftime show at the 2015 Super Bowl?
+8.Who performed a stunning halftime show at Super Bowl two years ago?
 A Katy Perry
 B Madonna
 C Lady Gaga
@@ -66,14 +66,14 @@ B Jay-Z
 C Lil Wayne
 D Drake
 A
-11.Katy Perry has been nominated for Song Of the Year for the 2014 Grammy Awards. Which song?
+11.Katy Perry has been nominated for Song Of the Year for the Grammy Awards two years ago. Which song?
 A Roar
 B Dark Horse
 C 
 Part of Me
 D Unconditionally
 A
-12."Royals" has been nominated for Song of the Year at the 2014 Grammy Awards. Who recorded the song?
+12."Royals" has been nominated for Song of the Year at the Grammy Awards two years ago. Who recorded the song?
 A Ariana Grande
 B Ellie Goulding
 C Lorde
@@ -91,13 +91,13 @@ B Kid Cudi
 C Young Thug
 D Usher
 D
-15.What album name did Katy Perry release in October 2013?
+15.What album name did Katy Perry release in October three years ago?
 A Glass
 B Prism
 C Cube
 D Sphere
 B
-16.Eminem and which star have a Billboard 100 hit with the song "The Monster"?
+16.Eminem and which star have a Billboard hundred hit with the song "The Monster"?
 A Rihanna
 B Ke$ha
 C Lady Gaga
@@ -109,7 +109,7 @@ B All Shook up
 C Blue Moon
 D Blue River
 A
-18.The 1997 film Space Jam featured which massive hit by R. Kelly?
+18.The film Space Jam featured which massive hit by R. Kelly?
 A Same Girl
 B The World’s Greatest
 C I believe I can fly

@@ -1,10 +1,10 @@
-0.A shot made in front of the 3-point line is worth:
-A 1-point
-B 2-points
-C 3-points
+0.A shot made in front of the three-point line is worth:
+A one point
+B two points
+C three points
 D It doesnt matter
 C
-1.Which team has made the most 3-point shots this year?
+1.Which team has made the most three point shots this year?
 A Golden State Warriors
 B Miami Heat
 C Cleveland Cavaliers
@@ -22,14 +22,14 @@ B Oakland Raiders
 C Minnesota Vikings
 D Miami Dolphins
 D
-4.What won the Heisman trophy in 2007?
+4.What won the Heisman trophy nine years ago?
 A Sam Bradford
 B RGIII
 C Tim Tebow
 D 
 Johnny Manziel
 C
-5.Which is the only team to repeat back to back title in men’s college basketball in the 21st century?
+5.Which is the only team to repeat back to back title in men’s college basketball in the twenty one century?
 A UCLA
 B Florida
 C Duke
@@ -47,7 +47,7 @@ B Reggie Bush
 C Marshawn Lynch
 D Todd Gurley
 C
-8.Who won the Masters in 2016?
+8.Who won the Masters this year?
 A Tiger Woods
 B Danny Willett
 C Phil Mickelson
@@ -61,10 +61,10 @@ C Basketball
 D Baseball
 B
 10.How many innings are there in Major League Baseball (MLB)?
-A 8
-B 7
-C 10
-D 9
+A eight
+B seven
+C ten
+D nine
 D
 11.Which NBA team has the most championship?
 A LA Lakers
@@ -78,13 +78,13 @@ B New England Patriots
 C Denver Broncos
 D Seattle Seahawks
 A
-13.How many Gold medals did Michael Phelps win in 2008 olympics?
-A 6
-B 7
-C 8
-D 9
+13.How many Gold medals did Michael Phelps win in the last olympics?
+A six
+B seven
+C eight
+D nine
 C
-14.Who won the 2014 FIFA World Cup?
+14.Who won the last FIFA World Cup?
 A Brazil
 B Argentina
 C Mexico
@@ -102,7 +102,7 @@ B Jeff Demps
 C Michael Jordan
 D Lebron James
 A
-17.Which city will host the 2020 olympics?
+17.Which city will host the olympics in the next four years?
 A London
 B Paris
 C Tokyo

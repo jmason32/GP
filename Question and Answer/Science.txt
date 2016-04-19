@@ -18,10 +18,10 @@ Decibels
 D Electrons
 C
 3.What is the charge of proton?
-A -1
-B +1
-C 0
-D 2
+A negative one
+B positive one
+C zero
+D two
 B
 4.Where was Isaac Newton born?
 A Germany
@@ -43,16 +43,16 @@ C DELL
 D Acer
 A
 7.How many pairs of cranial nerves do human have?
-A 5
-B 12
-C 11
-D 2
+A five
+B twelve
+C eleven
+D two
 B
 8.What two number is used to represent binary?
-A 3,2
-B 4,5
-C 9,0
-D 1,0
+A three,two
+B four,five
+C nine,zero
+D one,zero
 D
 9.Which of the following element has the lowest atomic number?
 A Hydrogen
@@ -68,17 +68,17 @@ B Lion
 C Shark
 D Elephant
 A
-11.What is the square root of 625?
-A 21
-B 25
-C 27
-D 29
+11.What is the square root of six hundred and twenty five?
+A twenty one
+B twenty five
+C twenty seven
+D twenty two
 B
 12.When are young elephants considered adults?
-A 10-12 years
-B 16-18 years
-C 12-15 years
-D 8-10 years
+A ten to tweleve years
+B sixteen to eighteen years
+C twelve to fifteen years
+D eight yo ten years
 C
 13.Which of this theory is considered about the creation of the universe?
 A Big Ben
@@ -99,10 +99,10 @@ C Parallel and Serial
 D Coordinated and individual
 C
 16.Approximately how many bones does an adult body have?
-A 206
-B 234
-C 189
-D 224
+A two hundred and six
+B two hundred thrity four
+C one hundred eigthy nine
+D two hundred twenty four
 A
 17.Cider comes from what fruit?
 A Apple
@@ -111,7 +111,7 @@ C
 Pineapple
 D Grapes
 A
-18.What is decimal number 15 in hex?
+18.What is decimal number fifteen in hex?
 A C
 B D
 C E
